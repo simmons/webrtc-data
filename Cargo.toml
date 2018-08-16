@@ -1,0 +1,13 @@
+[package]
+name = "webrtc-data"
+version = "0.0.0"
+authors = ["David Simmons <simmons@davidsimmons.com>"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/simmons/webrtc-data"
+keywords = ["webrtc" ]
+categories = ["network-programming"]
+description = "[WIP] WebRTC Data Channels"
+readme = "README.md"
+
+[dependencies]
+webrtc-sctp = "0.0.0"
